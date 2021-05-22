@@ -1,4 +1,4 @@
-# Trabalho-LP
+# Calculadora-Financeira
 Trabalho de Ling prog : Cálculo de investimentos pessoais realizados por um usuario. Aplicação Web.
 
 Para rodar o programa, escreva no terminal "python run.py runserver"
